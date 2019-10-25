@@ -10,4 +10,6 @@ This project contains code for a website displaying different tourist attraction
 
 ## Contributors
 1. Abubakar Siddiq Ango
-1. Fidelis Okafor
+2. Fidelis Okafor
+3. OYADOKE Helen
+
