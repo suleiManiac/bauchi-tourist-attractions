@@ -16,3 +16,4 @@ This project contains code for a website displaying different tourist attraction
 1. Kenneth Nwobi
 1. Luqman O. Sani
 1. Oyadoke Helen
+1. Abubakar Aliyu Giwa
