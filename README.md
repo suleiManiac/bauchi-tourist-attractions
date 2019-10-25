@@ -13,3 +13,4 @@ This project contains code for a website displaying different tourist attraction
 1. Fidelis Okafor
 1. Abdulhadi Ahmad
 1. Umar Zakariyya Muhammad
+1. Kenneth Nwobi
