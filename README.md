@@ -19,3 +19,4 @@ This project contains code for a website displaying different tourist attraction
 1. Umar Zakariyya Muhammad
 1. Luqman O. Sani
 1. Oyadoke Helen
+1. Usman Zakariyya Muhammad
