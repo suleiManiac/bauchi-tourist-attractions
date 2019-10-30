@@ -20,3 +20,4 @@ This project contains code for a website displaying different tourist attraction
 1. Luqman O. Sani
 1. Oyadoke Helen
 1. Usman Zakariyya Muhammad
+1. Suleiman Adamu Yakubu
