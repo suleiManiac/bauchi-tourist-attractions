@@ -1,15 +1,17 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [10.3141444,9.8138271]
-      },
-      "properties": {
-        "name": "Bauchi Club"
+[
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [10.3141444,9.8138271]
+        },
+        "properties": {
+          "name": "Bauchi Club"
+        }
       }
-    }
-  ]
-}
+    ]
+  }
+]
